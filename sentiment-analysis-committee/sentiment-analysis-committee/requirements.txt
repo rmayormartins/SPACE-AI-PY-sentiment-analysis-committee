@@ -1,0 +1,8 @@
+transformers
+gradio
+textblob
+nltk
+afinn
+torch
+tensorflow
+
